@@ -8,7 +8,7 @@ This project has mainly been an adventure in responsive design for me
 > I know this is pretty much the most basic project in existence, but I just had to make it 😭 <br>
 > Don't worry, I won't be making the to-do list as well... No one actually uses them anyways
 
-
+<br>
 
 ## Project setup
 ```
