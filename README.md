@@ -7,7 +7,8 @@ The background changes based on temperature alone, I might add weather condition
 
 This project has mainly been an adventure in responsive design for me, which is the why the code is not that complex
 > I know this is pretty much the most basic project in existence, but I just had to make it 😭 <br>
-> Don't worry, I won't be making the to-do list as well... No one actually uses them anyways
+> Don't worry, I won't be making the to-do list as well... No one actually uses them anyways <br>
+> I ought to replace the background with something a bit higher res, side effects of designing for mobile...
 
 <br>
 
