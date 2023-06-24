@@ -9,6 +9,7 @@ This project has mainly been an adventure in responsive design for me
 > Don't worry, I won't be making the to-do list as well... No one actually uses them anyways
 
 
+
 ## Project setup
 ```
 npm install
